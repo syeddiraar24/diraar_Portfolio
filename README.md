@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Diraar Ahmed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw0q5aEazbEnkfDhRUQspjsT&ust=1665636803125000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDe8-Hy2foCFQAAAAAdAAAAABAE">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeddiraar24&label=Profile%20views&color=0e75b6&style=flat" alt="syeddiraar24" /> </p>
 
 - 📫 How to reach me **syeddiraar24@gmail.com**
@@ -11,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/syed-diraar-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-diraar-ahmed" height="30" width="40" /></a>
 <a href="https://kaggle.com/syeddiraar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syeddiraar" height="30" width="40" /></a>
+<a href="https://instagram.com/diraar_syed0221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diraar_syed0221" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/diraar0221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diraar0221" height="30" width="40" /></a>
 </p>
 
@@ -20,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syeddiraar24&show_icons=true&locale=en&layout=compact" alt="syeddiraar24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeddiraar24&show_icons=true&locale=en" alt="syeddiraar24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeddiraar24&" alt="syeddiraar24" /></p>
