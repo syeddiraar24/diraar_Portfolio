@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Diraar Ahmed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syeddiraar24&label=Profile%20views&color=0e75b6&style=flat" alt="syeddiraar24" /> </p>
-
-- 📫 How to reach me **syeddiraar24@gmail.com**
+- 📫 HOW TO REACH ME!! **syeddiraar24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
